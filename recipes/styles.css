@@ -1,6 +1,6 @@
 .proportioned{
     height: auto;
-    width: 250px;
+    width: 350px;
 }
 .title{
     color: red;
@@ -10,7 +10,7 @@
     color: blueviolet;
     font-size: 30px;
 }
-.organised{s
+.organised{
     background-color: green;
     color: gray;
     font-size: 20px;
